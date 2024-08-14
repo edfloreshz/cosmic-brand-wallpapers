@@ -1,5 +1,5 @@
-# COSMIC Brand Wallpapers
-Collection of wallpapers shown in a [System76 blog post](https://blog.system76.com/post/cosmic-branding).
+# COSMIC™ Brand Wallpapers
+Collection of COSMIC™ wallpapers shown in a [System76 blog post](https://blog.system76.com/post/cosmic-branding).
 
 ![COSMIC-Dark](3840x2160/COSMIC-Dark.png)
 ![COSMIC-White](3840x2160/COSMIC-White.png)
